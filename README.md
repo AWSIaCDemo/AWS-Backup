@@ -60,5 +60,3 @@ No output.
 ## Authors
 
 ## License
-
-Apache 2 Licensed. See [LICENSE](https://github.com/DNXLabs/terraform-aws-backup/blob/master/LICENSE) for full details.
