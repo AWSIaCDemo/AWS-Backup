@@ -1,8 +1,5 @@
 # terraform-aws-backup
 
-[![Lint Status](https://github.com/DNXLabs/terraform-aws-backup/workflows/Lint/badge.svg)](https://github.com/DNXLabs/terraform-aws-backup/actions)
-[![LICENSE](https://img.shields.io/github/license/DNXLabs/terraform-aws-backup)](https://github.com/DNXLabs/terraform-aws-backup/blob/master/LICENSE)
-
 This terraform module automate the backup of data across AWS services using a resource tag.
 
 The following resources will be created:
@@ -61,8 +58,6 @@ No output.
 <!--- END_TF_DOCS --->
 
 ## Authors
-
-Module managed by [DNX Solutions](https://github.com/DNXLabs).
 
 ## License
 
